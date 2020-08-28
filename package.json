@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-slide-mode-keyboard-shortcuts",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Jupyter lab extension to add keyboard shortcuts for altering cell slide mode.",
   "keywords": [
     "jupyter",

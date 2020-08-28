@@ -69,6 +69,5 @@ Now every change will be built locally and bundled into JupyterLab. Be sure to r
 ### Uninstall
 
 ```bash
-
-jupyter labextension uninstall slide-mode-keyboard-shortcuts
+jupyter labextension uninstall jupyterlab-slide-mode-keyboard-shortcuts
 ```
