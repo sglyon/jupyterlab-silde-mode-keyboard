@@ -1,0 +1,39 @@
+{
+  "title": "Slide Mode Keyboard Shortcuts",
+  "description": "Keyboard shortcuts to change slidemode for notebook cells.",
+  "jupyter.lab.shortcuts": [
+    {
+      "command": "slidemode:slide",
+      "keys": ["Shift S"],
+      "selector": ".jp-Notebook:focus"
+    },
+    {
+      "command": "slidemode:subslide",
+      "keys": ["Shift B"],
+      "selector": ".jp-Notebook:focus"
+    },
+    {
+      "command": "slidemode:fragment",
+      "keys": ["Shift G"],
+      "selector": ".jp-Notebook:focus"
+    },
+    {
+      "command": "slidemode:skip",
+      "keys": ["Shift I"],
+      "selector": ".jp-Notebook:focus"
+    },
+    {
+      "command": "slidemode:notes",
+      "keys": ["Shift N"],
+      "selector": ".jp-Notebook:focus"
+    },
+    {
+      "command": "slidemode:clear",
+      "keys": ["Shift C"],
+      "selector": ".jp-Notebook:focus"
+    }
+  ],
+  "properties": {},
+  "additionalProperties": false,
+  "type": "object"
+}

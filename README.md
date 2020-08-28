@@ -4,11 +4,9 @@
 
 Jupyter lab extension to add keyboard shortcuts for altering cell slide mode.
 
-
-
 ## Requirements
 
-* JupyterLab >= 2.0
+- JupyterLab >= 2.0
 
 ## Install
 
@@ -18,7 +16,7 @@ jupyter labextension install slide-mode-keyboard-shortcuts
 
 ## Contributing
 
-### Install
+### Developer Install
 
 The `jlpm` command is JupyterLab's pinned version of
 [yarn](https://yarnpkg.com/) that is installed with JupyterLab. You may use
