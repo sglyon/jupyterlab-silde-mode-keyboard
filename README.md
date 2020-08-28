@@ -14,6 +14,23 @@ Jupyter lab extension to add keyboard shortcuts for altering cell slide mode.
 jupyter labextension install jupyterlab-slide-mode-keyboard-shortcuts
 ```
 
+## Usage
+
+This package sets up configurable keyboard shortcuts for changing the slidemode of notebook cells.
+
+The shortcuts only work in "command mode".
+
+The default keyboard shortcuts are:
+
+- slide: `Shift S`
+- subslide: `Shift B`
+- fragment: `Shift G`
+- skip: `Shift I`
+- notes: `Shift N`
+- clear: `Shift C`
+
+These can be customized via the standard JupyterLab keyboard shortcut custimization interface.
+
 ## Contributing
 
 ### Developer Install
