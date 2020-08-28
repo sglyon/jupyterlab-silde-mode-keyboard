@@ -1,4 +1,4 @@
-# slide-mode-keyboard-shortcuts
+# jupyterlab-slide-mode-keyboard-shortcuts
 
 ![Github Actions Status](https://github.com/sglyon/jupyterlab-silde-mode-keyboard/workflows/Build/badge.svg)
 
@@ -11,7 +11,7 @@ Jupyter lab extension to add keyboard shortcuts for altering cell slide mode.
 ## Install
 
 ```bash
-jupyter labextension install slide-mode-keyboard-shortcuts
+jupyter labextension install jupyterlab-slide-mode-keyboard-shortcuts
 ```
 
 ## Contributing
