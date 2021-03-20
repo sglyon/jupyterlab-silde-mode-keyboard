@@ -5,3 +5,5 @@ node_modules/
 .ipynb_checkpoints
 *.tsbuildinfo
 yarn.lock
+*.pyc
+dist/

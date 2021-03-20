@@ -72,7 +72,12 @@
   "jupyterlab": {
     "extension": true,
     "schemaDir": "schema",
-    "outputDir": "jupyterlab-slide-mode-keyboard-shortcuts/labextension"
+    "outputDir": "jupyterlab-slide-mode-keyboard-shortcuts/labextension",
+    "_build": {
+      "load": "static/remoteEntry.98cba6dfec864a0404e1.js",
+      "extension": "./extension",
+      "style": "./style"
+    }
   },
   "styleModule": "style/index.js"
 }
