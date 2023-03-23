@@ -11,7 +11,7 @@ Jupyter lab extension to add keyboard shortcuts for altering cell slide mode.
 ## Install
 
 ```bash
-jupyter labextension install jupyterlab-slide-mode-keyboard-shortcuts
+pip install jupyterlab-slide-mode-keyboard-shortcuts
 ```
 
 ## Usage
